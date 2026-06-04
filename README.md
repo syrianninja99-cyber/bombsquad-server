@@ -1,6 +1,6 @@
-# 🚀 BombSquad Server Manager
+# 🚀 BombSquad Server
 
-A public BombSquad Server Manager with pre-installed mods and mini-games. A VPS is strictly required for 24/7 uptime and global public access.
+A public BombSquad Server with pre-installed mods and mini-games. A VPS is strictly required for 24/7 uptime and global public access.
 
 ---
 
