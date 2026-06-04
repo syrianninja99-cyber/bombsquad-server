@@ -4,6 +4,13 @@ A public BombSquad Server with pre-installed mods and mini-games. A VPS is stric
 
 ---
 
+⚠️ Important: Fetch Game Assets
+The files in this repository are just the configuration and manager scripts. You need to download the official BombSquad Headless engine files to make it work: wget -q "https://files.ballistica.net/bombsquad/builds/BombSquad_Server_Linux_x86_64_1.7.63.tar.gz" -O server.tar.gz
+tar -xzf server.tar.gz --strip-components=1
+rm server.tar.gz
+
+---
+
 ## 📂 Repository Architecture
 
 Here is what each file in this repository does:
