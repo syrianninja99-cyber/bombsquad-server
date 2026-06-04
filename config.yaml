@@ -1,0 +1,4 @@
+party_name: "SyrianNinja Server"
+party_is_public: true
+port: 43210
+max_party_size: 10
